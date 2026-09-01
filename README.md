@@ -1,6 +1,8 @@
 # What It Is and What It Is For
 This is a minimalist esoteric stack-based programming language similar to Forth and False.
 It has functions (words), recursion, branching, and 15 primitives. At the same time, the entire implementation fits in just 67 lines of C code!
+For test run `./a.out file`.
+You can find examples on this language on dir examples in repo.
 
 # Specification
 
